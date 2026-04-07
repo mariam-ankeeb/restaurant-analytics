@@ -156,10 +156,10 @@ minvalue = 1
 
 ## Key Insights from the Data
 
-- **القاهرة** is the highest revenue branch at over $1 billion, more than double the next branch
-- **مشويات** (grilled meats) is the top-performing food category by revenue at $1.01B
+- **Cairo** is the highest revenue branch at over $1 billion, more than double the next branch
+- **Grills** (grilled meats) is the top-performing food category by revenue at $1.01B
 - **Cash** is still the dominant payment method at 50%, with Wallet at only 20%
-- **Overall average rating is 3.7/5.0** — below the 4.0 target, with أسيوط the lowest branch at 3.1
+- **Overall average rating is 3.7/5.0** — below the 4.0 target, Assuit the lowest branch at 3.1
 - **Monday** is the lowest traffic day while Friday–Sunday cluster as the busiest period
 - Only **670 orders** received a 1-star rating vs **903K** receiving 5 stars — satisfaction is heavily skewed positive but the low-rating tail needs investigation
 
